@@ -1,0 +1,172 @@
+1
+00:00:00,000 --> 00:00:05,000
+<b>Lulu vem dançar no mundo pra sonhar</b>
+
+2
+00:00:05,000 --> 00:00:11,000
+<b>Com o João na cadeira a girar e a Sofia a cantar</b>
+
+3
+00:00:11,000 --> 00:00:16,000
+<b>Tem o Léo que não enxerga, mas sente o som do tambor</b>
+
+4
+00:00:16,000 --> 00:00:21,000
+<b>E a Ana que é autista nos mostra todo o seu amor</b>
+
+5
+00:00:21,000 --> 00:00:25,000
+<b>O Pedro faz libras com as mãos a falar</b>
+
+6
+00:00:25,000 --> 00:00:29,000
+<b>E a Lara tem prótese pra gente abraçar</b>
+
+7
+00:00:29,000 --> 00:00:34,000
+<b>Abraço colorido, é assim nosso amor</b>
+
+8
+00:00:34,000 --> 00:00:38,000
+<b>Cada um do seu jeito, cada um com seu valor</b>
+
+9
+00:00:38,000 --> 00:00:43,000
+<b>Na roda da amizade vamos todos cantar</b>
+
+10
+00:00:43,000 --> 00:00:48,000
+<b>Lulu trouxe alegria pra gente se abraçar</b>
+
+11
+00:00:48,000 --> 00:00:55,000
+<b>Wow, wow</b>
+
+12
+00:00:55,000 --> 00:00:58,000
+<b>Lulu, Lulu</b>
+
+13
+00:00:58,000 --> 00:01:03,000
+<b>Lulu vem dançar no mundo pra sonhar</b>
+
+14
+00:01:03,000 --> 00:01:08,000
+<b>Com o João na cadeira a girar e a Sofia a cantar</b>
+
+15
+00:01:08,000 --> 00:01:13,000
+<b>Tem o Léo que não enxerga, mas sente o som do tambor</b>
+
+16
+00:01:13,000 --> 00:01:19,000
+<b>E a Ana que é autista nos mostra todo o seu amor</b>
+
+17
+00:01:19,000 --> 00:01:24,000
+<b>O Pedro faz libras com as mãos a falar</b>
+
+18
+00:01:24,000 --> 00:01:28,000
+<b>E a Lara tem prótese pra gente abraçar</b>
+
+19
+00:01:28,000 --> 00:01:33,000
+<b>Abraço colorido, é assim nosso amor</b>
+
+20
+00:01:33,000 --> 00:01:37,000
+<b>Cada um do seu jeito, cada um com seu valor</b>
+
+21
+00:01:37,000 --> 00:01:42,000
+<b>Na roda da amizade vamos todos cantar</b>
+
+22
+00:01:42,000 --> 00:01:47,000
+<b>Lulu trouxe alegria pra gente se abraçar</b>
+
+23
+00:01:47,000 --> 00:01:55,000
+<b>Wow, wow</b>
+
+24
+00:01:55,000 --> 00:02:00,000
+<b>Abraço colorido, é assim nosso amor</b>
+
+25
+00:02:00,000 --> 00:02:04,000
+<b>Cada um do seu jeito, cada um com seu valor</b>
+
+26
+00:02:04,000 --> 00:02:08,000
+<b>Wow, wow</b>
+
+27
+00:02:08,000 --> 00:02:12,000
+<b>Na roda da amizade vamos todos cantar</b>
+
+28
+00:02:12,000 --> 00:02:17,000
+<b>Lulu trouxe alegria pra gente se abraçar</b>
+
+29
+00:02:17,000 --> 00:02:24,000
+<b>Wow, wow</b>
+
+30
+00:02:24,000 --> 00:02:27,000
+<b>Lá, lá, lá!</b>
+
+31
+00:02:27,000 --> 00:02:31,000
+<b>Lulu</b>
+
+32
+00:02:31,000 --> 00:02:36,000
+<b>Lulu</b>
+
+33
+00:02:36,000 --> 00:02:41,000
+<b>Lulu vem dançar no mundo pra sonhar</b>
+
+34
+00:02:41,000 --> 00:02:56,000
+<b>Com o João na cadeira a girar e a Sofia a cantar</b>
+
+35
+00:02:56,000 --> 00:03:01,000
+<b>Tem o Léo que não enxerga, mas sente o som do tambor</b>
+
+36
+00:03:01,000 --> 00:03:07,000
+<b>E a Ana que é autista nos mostra todo o seu amor</b>
+
+37
+00:03:07,000 --> 00:03:12,000
+<b>O Pedro faz libras com as mãos a falar</b>
+
+38
+00:03:12,000 --> 00:03:16,000
+<b>E a Lara tem prótese pra gente abraçar</b>
+
+39
+00:03:16,000 --> 00:03:21,000
+<b>Abraço colorido, é assim nosso amor</b>
+
+40
+00:03:21,000 --> 00:03:25,000
+<b>Cada um do seu jeito, cada um com seu valor</b>
+
+41
+00:03:25,000 --> 00:03:30,000
+<b>Na roda da amizade vamos todos cantar</b>
+
+42
+00:03:30,000 --> 00:03:34,000
+<b>Lulu trouxe alegria pra gente se abraçar</b>
+
+43
+00:03:34,000 --> 00:03:39,000
+<b>Lulu trouxe alegria pra gente se abraçar</b>
+

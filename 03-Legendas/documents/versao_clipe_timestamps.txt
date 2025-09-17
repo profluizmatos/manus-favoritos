@@ -1,0 +1,34 @@
+TIMESTAMPS PARA LEGENDAS - "Lulu e Seu Abraço Colorido" (VERSÃO DO CLIPE)
+Duração total: 228.6 segundos (3 minutos e 48 segundos)
+Idioma: Português
+
+=== DIFERENÇAS DA VERSÃO ORIGINAL ===
+- Versão original: 223.6 segundos (3min 43s)
+- Versão do clipe: 228.6 segundos (3min 48s)
+- Diferença: +5 segundos (música mais longa)
+
+=== PRINCIPAIS CARACTERÍSTICAS DA VERSÃO EDITADA ===
+1. Início com título cantado: "LULU VEM DANÇAR"
+2. Estrutura mais fragmentada com pausas entre frases
+3. Mais repetições dos "Woo-oo-oo" (vocalizações)
+4. Mantém o "Lá, lá, lá!" conforme solicitado
+5. Final estendido com repetição dupla
+
+=== ESTRUTURA DA MÚSICA ===
+- Introdução: 00:00 - 00:05 (Título cantado)
+- Primeira estrofe: 00:05 - 00:50
+- Primeiro refrão: 00:32 - 00:50
+- Transição musical: 00:50 - 00:59
+- Segunda estrofe: 00:59 - 01:45
+- Segundo refrão: 01:27 - 01:45
+- Ponte musical: 01:45 - 02:37
+- Terceira estrofe: 02:37 - 03:39
+- Final: 03:33 - 03:39 (repetição dupla)
+
+=== OBSERVAÇÕES TÉCNICAS ===
+- Timestamps mais precisos com intervalos menores
+- Melhor sincronização para videoclipe
+- Vocalizações ("Woo-oo-oo") destacadas separadamente
+- Correção aplicada: "Lá, lá, lá!" (não "Sei lá, lá, lá")
+- 72 segmentos de legenda total
+

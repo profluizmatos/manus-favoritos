@@ -1,0 +1,288 @@
+1
+00:00:00,000 --> 00:00:05,000
+LULU VEM DANÇAR
+
+2
+00:00:05,000 --> 00:00:07,000
+Lulu vem dançar
+
+3
+00:00:07,000 --> 00:00:09,000
+No mundo pra sonhar
+
+4
+00:00:09,000 --> 00:00:11,000
+Com o João na cadeira a girar
+
+5
+00:00:11,000 --> 00:00:14,000
+E a Sofia a cantar
+
+6
+00:00:15,000 --> 00:00:17,000
+Tem um Léo que não enxerga
+
+7
+00:00:17,000 --> 00:00:19,000
+Mas sente o som do tambor
+
+8
+00:00:19,000 --> 00:00:21,000
+E a Ana que é autista
+
+9
+00:00:21,000 --> 00:00:24,000
+Nos mostra todo o seu amor
+
+10
+00:00:24,000 --> 00:00:28,000
+Pedro faz libras com as mãos a falar
+
+11
+00:00:28,000 --> 00:00:30,000
+E a Lara tem prótese
+
+12
+00:00:30,000 --> 00:00:32,000
+Pra gente abraçar
+
+13
+00:00:32,000 --> 00:00:34,000
+Abraço colorido
+
+14
+00:00:34,000 --> 00:00:37,000
+É assim nosso amor
+
+15
+00:00:37,000 --> 00:00:39,000
+Cada um do seu jeito
+
+16
+00:00:39,000 --> 00:00:41,000
+Cada um com seu valor
+
+17
+00:00:41,000 --> 00:00:43,000
+Na roda da amizade
+
+18
+00:00:43,000 --> 00:00:45,000
+Vamos todos cantar
+
+19
+00:00:45,000 --> 00:00:47,000
+Lulu trouxe alegria
+
+20
+00:00:47,000 --> 00:00:50,000
+Pra gente se abraçar
+
+21
+00:00:50,000 --> 00:00:57,000
+Woo-oo-oo-oo-oo
+
+22
+00:00:57,000 --> 00:00:59,000
+Lulu lulu-lu
+
+23
+00:00:59,000 --> 00:01:01,000
+Lulu vem dançar
+
+24
+00:01:01,000 --> 00:01:03,000
+No mundo pra sonhar
+
+25
+00:01:03,000 --> 00:01:05,000
+Com o João na cadeira a girar
+
+26
+00:01:05,000 --> 00:01:08,000
+E a Sofia a cantar
+
+27
+00:01:08,000 --> 00:01:10,000
+Tem um Léo que não enxerga
+
+28
+00:01:10,000 --> 00:01:12,000
+Mas sente o som do tambor
+
+29
+00:01:12,000 --> 00:01:14,000
+E a Ana que é autista
+
+30
+00:01:14,000 --> 00:01:18,000
+Nos mostra todo o seu amor
+
+31
+00:01:18,000 --> 00:01:23,000
+O Pedro faz libras com as mãos a falar
+
+32
+00:01:23,000 --> 00:01:27,000
+E a Lara tem prótese pra gente abraçar
+
+33
+00:01:27,000 --> 00:01:32,000
+Abraço colorido, é assim nosso amor
+
+34
+00:01:32,000 --> 00:01:34,000
+Cada um do seu jeito
+
+35
+00:01:34,000 --> 00:01:36,000
+Cada um com seu valor
+
+36
+00:01:36,000 --> 00:01:38,000
+Na roda da amizade
+
+37
+00:01:38,000 --> 00:01:40,000
+Vamos todos cantar
+
+38
+00:01:40,000 --> 00:01:43,000
+Lulu trouxe alegria
+
+39
+00:01:43,000 --> 00:01:45,000
+Pra gente se abraçar
+
+40
+00:01:45,000 --> 00:01:54,000
+Woo-oo-oo-oo-oo
+
+41
+00:01:54,000 --> 00:01:58,000
+Abraço colorido, é assim nosso amor
+
+42
+00:01:58,000 --> 00:02:00,000
+Cada um do seu jeito
+
+43
+00:02:00,000 --> 00:02:03,000
+Cada um com seu valor
+
+44
+00:02:03,000 --> 00:02:07,000
+Woo-oo-oo-oo-oo
+
+45
+00:02:07,000 --> 00:02:09,000
+Na roda da amizade
+
+46
+00:02:09,000 --> 00:02:11,000
+Vamos todos cantar
+
+47
+00:02:11,000 --> 00:02:13,000
+Lulu trouxe alegria
+
+48
+00:02:13,000 --> 00:02:16,000
+Pra gente se abraçar
+
+49
+00:02:16,000 --> 00:02:23,000
+Woo-oo-oo-oo-oo
+
+50
+00:02:23,000 --> 00:02:25,000
+Lá, lá, lá!
+
+51
+00:02:25,000 --> 00:02:30,000
+Woo-oo-oo-oo-oo
+
+52
+00:02:30,000 --> 00:02:36,000
+Woo-oo-oo-oo-oo
+
+53
+00:02:37,000 --> 00:02:39,000
+Lulu vem dançar
+
+54
+00:02:39,000 --> 00:02:41,000
+Num mundo pra sonhar
+
+55
+00:02:41,000 --> 00:02:44,000
+Com o João na cadeira a girar
+
+56
+00:02:45,000 --> 00:02:52,000
+E a Sofia a cantar
+
+57
+00:02:52,000 --> 00:02:55,000
+Woo-oo-oo-oo-oo
+
+58
+00:02:55,000 --> 00:02:58,000
+Tem o Léo que não enxerga
+
+59
+00:02:58,000 --> 00:03:00,000
+Mas sente o som do tambor
+
+60
+00:03:00,000 --> 00:03:02,000
+E a Ana que é autista
+
+61
+00:03:02,000 --> 00:03:06,000
+Nos mostra todo o seu amor
+
+62
+00:03:06,000 --> 00:03:11,000
+O Pedro faz libras com as mãos a falar
+
+63
+00:03:11,000 --> 00:03:15,000
+E a Lara tem prótese pra gente abraçar
+
+64
+00:03:15,000 --> 00:03:20,000
+Abraço colorido, é assim nosso amor
+
+65
+00:03:20,000 --> 00:03:22,000
+Cada um do seu jeito
+
+66
+00:03:22,000 --> 00:03:24,000
+Cada um com seu valor
+
+67
+00:03:24,000 --> 00:03:26,000
+Na roda da amizade
+
+68
+00:03:26,000 --> 00:03:28,000
+Vamos todos cantar
+
+69
+00:03:28,000 --> 00:03:31,000
+Lulu trouxe alegria
+
+70
+00:03:31,000 --> 00:03:33,000
+Pra gente se abraçar
+
+71
+00:03:33,000 --> 00:03:35,000
+Lulu trouxe alegria
+
+72
+00:03:35,000 --> 00:03:39,000
+Pra gente se abraçar
+
