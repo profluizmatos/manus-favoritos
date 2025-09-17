@@ -1,0 +1,8 @@
+=== RELATÓRIO DE RECUPERAÇÃO ===
+Data: Wed Sep 17 17:08:36 EDT 2025
+
+Personagens: 59 arquivos
+Cenários: 44 arquivos
+Referências: 79 arquivos
+Documentação: 4 arquivos
+Backup: 146 arquivos
